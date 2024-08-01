@@ -10,4 +10,7 @@ All you need to do is:
 
 Additional instructions exist in the repository’s `README.md` file.
 
-Start on [Voidfull](https://voidfull.com).
+#### Links
+
+* Website: https://voidfull.com
+* Github: https://github.com/voidfullspace
